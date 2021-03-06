@@ -14,7 +14,12 @@ Gain knowledge of how a robot arm operates
   <h3>Arduino</h3>
     <img src="https://user-images.githubusercontent.com/80166775/110216195-b6ed1500-7e7b-11eb-8f5b-3a47efa29033.jpg"></div>
 
-  <h3>potentiometers (3x) </h3>
+  <h3>potentiometers (x3) </h3>
+    <img src="https://user-images.githubusercontent.com/80166775/110216216-e0a63c00-7e7b-11eb-9adf-3578d409f8a1.jpg"></div>
+    <h3>mg996r servo motor (x2)</h3>
+    <img src="https://user-images.githubusercontent.com/80166775/110216195-b6ed1500-7e7b-11eb-8f5b-3a47efa29033.jpg"></div>
+
+  <h3>mg995 servo motor </h3>
     <img src="https://user-images.githubusercontent.com/80166775/110216216-e0a63c00-7e7b-11eb-9adf-3578d409f8a1.jpg"></div>
     
 <h2>Resources</h2>
