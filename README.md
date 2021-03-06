@@ -28,7 +28,7 @@ Gain knowledge of how a robot arm operates
 </ul>  
 
 <h2>Project status</h2>
- status:currently working on.
+ status:currently updating build.
 <p> future edits- control the arm with bluetooth module</p>
 
 <h2>Credits</h2>
