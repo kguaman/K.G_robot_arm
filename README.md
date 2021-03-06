@@ -20,7 +20,7 @@ Gain knowledge of how a robot arm operates
     <img src="https://user-images.githubusercontent.com/80166775/110220261-5c12e800-7e92-11eb-9a92-93d3d2a0a898.jpg"></div>
 
   <h3>mg995 servo motor </h3>
-    <img src="https://user-images.githubusercontent.com/80166775/110216216-e0a63c00-7e7b-11eb-9adf-3578d409f8a1.jpg"></div>
+    <img src="https://user-images.githubusercontent.com/80166775/110220302-aeec9f80-7e92-11eb-9bad-a0eaacb6104d.jpg"></div>
     
 <h2>Resources</h2>
 <ul>
