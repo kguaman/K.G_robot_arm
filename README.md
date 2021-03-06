@@ -15,9 +15,9 @@ Gain knowledge of how a robot arm operates
     <img src="https://user-images.githubusercontent.com/80166775/110216195-b6ed1500-7e7b-11eb-8f5b-3a47efa29033.jpg"></div>
 
   <h3>potentiometers (x3) </h3>
-    <img src="https://user-images.githubusercontent.com/80166775/110216216-e0a63c00-7e7b-11eb-9adf-3578d409f8a1.jpg"></div>
+    <img src="https://user-images.githubusercontent.com/80166775/110220260-5ae1bb00-7e92-11eb-8dd3-edc08fd661b8.jpg"></div>
     <h3>mg996r servo motor (x2)</h3>
-    <img src="https://user-images.githubusercontent.com/80166775/110216195-b6ed1500-7e7b-11eb-8f5b-3a47efa29033.jpg"></div>
+    <img src="https://user-images.githubusercontent.com/80166775/110220261-5c12e800-7e92-11eb-9a92-93d3d2a0a898.jpg"></div>
 
   <h3>mg995 servo motor </h3>
     <img src="https://user-images.githubusercontent.com/80166775/110216216-e0a63c00-7e7b-11eb-9adf-3578d409f8a1.jpg"></div>
