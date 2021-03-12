@@ -1,6 +1,6 @@
 
  <h1 align="center">Robot Arm</h1>
-  <p align="center"><strong>control movment with potentiometers</strong>
+  <p align="center"><strong>control movement with potentiometers</strong>
    <br>self-project</p>
 
   <h2>About</h2>
